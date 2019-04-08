@@ -1,0 +1,2 @@
+DROP TABLE DMSSUCI;
+CREATE TABLE dmssuci (ReportId int, SUCI001 int, SUCI002 int);
